@@ -1,0 +1,19 @@
+{
+  "name": "personal-card",
+  "version": "2.0.0",
+  "description": "Cartão de visitas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MartinLooterKing"
+  ],
+  "author": "Nicollas Albert",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "colors.js": "^1.2.4",
+    "prettyjson": "^1.2.5"
+  }
+}
