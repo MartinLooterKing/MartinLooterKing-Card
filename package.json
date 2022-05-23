@@ -1,19 +1,30 @@
 {
-  "name": "MartinLooterKing",
+  "name": "martinlooterking",
   "version": "1.0.0",
   "description": "Cartão de visitas",
   "main": "index.js",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "colors": "^1.4.0",
+    "colors.js": "^1.2.4",
+    "minimist": "^1.2.6",
+    "prettyjson": "^1.2.5"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MartinLooterKing/MartinLooterKing-Card.git"
   },
   "keywords": [
     "MartinLooterKing"
   ],
   "author": "Nicollas Albert",
   "license": "ISC",
-  "dependencies": {
-    "chalk": "^5.0.1",
-    "colors.js": "^1.2.4",
-    "prettyjson": "^1.2.5"
-  }
+  "bugs": {
+    "url": "https://github.com/MartinLooterKing/MartinLooterKing-Card/issues"
+  },
+  "homepage": "https://github.com/MartinLooterKing/MartinLooterKing-Card#readme"
 }
